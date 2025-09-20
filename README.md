@@ -29,5 +29,29 @@ Steps-
 5) Git Add and Commit:
      <img width="821" height="204" alt="image" src="https://github.com/user-attachments/assets/d3e593d8-49ff-41d9-b17e-c503547ccfec" />
 
-     
+6) Schedule with Cron
+   <img width="774" height="299" alt="image" src="https://github.com/user-attachments/assets/ccce4488-c65f-4d8a-9f05-dfa4f42e3a2d" />
+
+   
+  <img width="952" height="803" alt="image" src="https://github.com/user-attachments/assets/a5d838be-d076-41bc-8a3b-b4ad4ec6e82c" />
+
+
+   Verify-
+   <img width="961" height="816" alt="image" src="https://github.com/user-attachments/assets/fcf09446-9173-4893-b834-a68fef123890" />
+
+
+   Beofre 10:12-
+   
+   <img width="967" height="290" alt="image" src="https://github.com/user-attachments/assets/7e6df0be-112f-4ba1-a152-f966cefb5270" />
+
+
+   After 10:12-
+
+   <img width="962" height="795" alt="image" src="https://github.com/user-attachments/assets/d4cf1bf4-7cf0-4f94-adfb-7ffe729c0063" />
+
+
+   
+   
+
+
 
